@@ -25,7 +25,8 @@
 - **🌧️ Ambient Noise Mixer:** Overlay relaxing background sounds like Rain, Café murmur, or Forest ambiance. Mix and match to create your perfect study environment.
 - **🌊 Real-time Audio Visualizer:** Dynamic, real-time waveform and frequency visualizers powered by HTML5 Canvas and the Web Audio API that respond to your music.
 
-## 🚀 Getting Started
+## 
+🚀 Demo You can try **Potify** live here: [![Deploy with Vercel](https://vercel.com/button)](https://potify-iota.vercel.app/)
 
 Follow these steps to get a local copy up and running.
 
