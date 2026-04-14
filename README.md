@@ -26,7 +26,7 @@
 - **🌊 Real-time Audio Visualizer:** Dynamic, real-time waveform and frequency visualizers powered by HTML5 Canvas and the Web Audio API that respond to your music.
 
 ## 
-🚀 Demo You can try **Potify** live here: [![Deploy with Vercel](https://vercel.com/button)](https://potify-iota.vercel.app/)
+🚀 Demo You can try **Potify** live here: [![Deploy with Vercel](https://vercel.com/button)](https://lofi-focus-player.vercel.app/)
 
 Follow these steps to get a local copy up and running.
 
