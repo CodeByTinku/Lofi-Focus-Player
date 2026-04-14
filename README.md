@@ -67,11 +67,7 @@ Follow these steps to get a local copy up and running.
 - **[Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)** - For robust audio manipulation and real-time visualization.
 - **[Framer Motion](https://www.framer.com/motion/)** *(Optional/Planned)* - For smooth micro-interactions and transitions.
 
-## 📸 Screenshots
 
-*(You can add screenshots of your application here!)*
-
-> To add an image, place your screenshots in the `public` or `assets` folder and link them here using standard Markdown layout like `![Home Screen](/preview.png)`
 
 ## 🤝 Contributing
 
